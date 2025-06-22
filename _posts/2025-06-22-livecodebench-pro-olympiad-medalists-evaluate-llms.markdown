@@ -2,8 +2,7 @@
 layout: post
 title: "[Paper Summary] LiveCodeBench Pro: How Do Olympiad Medalists Judge LLMs in Competitive Programming?"
 date: 2025-06-22 01:00:00 +0200
-categories: [paper-summary, ai, competitive-programming]
-tags: [llm-evaluation, competitive-programming, ai-benchmarks, code-generation, olympiad]
+categories: blog
 ---
 
 # Paper Summary: LiveCodeBench Pro - Olympiad Medalists Evaluate LLMs

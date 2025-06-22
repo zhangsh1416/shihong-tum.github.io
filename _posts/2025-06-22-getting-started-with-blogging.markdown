@@ -2,8 +2,7 @@
 layout: post
 title: "Getting Started with Blogging: My Journey Begins"
 date: 2025-06-22 01:30:00 +0200
-categories: [blogging, personal]
-tags: [introduction, blogging, journey]
+categories: blog
 ---
 
 Welcome to my blog! This is my first post, and I'm excited to share this journey with you.
