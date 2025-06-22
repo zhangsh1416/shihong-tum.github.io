@@ -31,7 +31,7 @@ author: shihong
 
 # Build settings
 theme: minima
-permalink: /:categories/:year/:month/:day/:title.html
+permalink: /:year/:month/:day/:title/
 plugins:
   - jekyll-feed
   - jekyll-sitemap
