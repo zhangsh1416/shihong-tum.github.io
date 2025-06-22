@@ -37,3 +37,6 @@ temp/
 # Python cache (from MCP servers)
 __pycache__/
 *.pyc
+
+# Documentation for Claude Code
+CLAUDE.md
