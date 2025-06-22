@@ -6,3 +6,15 @@ description: A personal blog where I share my thoughts, experiences, and learnin
 theme: minima
 plugins:
   - jekyll-feed
+
+# Exclude unwanted files and directories from site
+exclude:
+  - temp/
+  - CLAUDE.md
+  - .gitignore
+  - blog-serve.sh
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - .sass-cache/
+  - .jekyll-cache/
