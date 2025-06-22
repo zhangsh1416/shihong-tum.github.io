@@ -40,3 +40,6 @@ __pycache__/
 
 # Documentation for Claude Code
 CLAUDE.md
+
+# Development configuration
+_config_dev.yml
