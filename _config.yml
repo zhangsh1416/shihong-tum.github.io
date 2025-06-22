@@ -2,6 +2,10 @@ title: Shihong's Blog
 email: sh.zhang@tum.de
 description: A personal blog where I share my thoughts, experiences, and learnings.
 
+# GitHub Pages settings (CRITICAL for proper URL generation)
+url: "https://zhangsh1416.github.io"
+baseurl: "/shihong-tum.github.io"
+
 # Build settings
 theme: minima
 plugins:
