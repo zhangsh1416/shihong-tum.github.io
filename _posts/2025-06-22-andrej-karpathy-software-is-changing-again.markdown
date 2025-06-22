@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[Video Analysis] Andrej Karpathy: Software Is Changing (Again) - The Era of Software 3.0"
-date: 2025-06-22 00:30:00 +0200
+date: 2025-06-21 00:30:00 +0200
 categories: blog
 ---
 

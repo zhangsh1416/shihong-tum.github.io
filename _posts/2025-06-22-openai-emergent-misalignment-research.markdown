@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[Research Summary] OpenAI's Emergent Misalignment: When Teaching AI to Code Badly Makes It Broadly Dangerous"
-date: 2025-06-22 01:30:00 +0200
+date: 2025-06-21 01:30:00 +0200
 categories: blog
 ---
 
