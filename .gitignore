@@ -1,0 +1,39 @@
+# Jekyll build files
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby/Bundler files
+vendor/
+Gemfile.lock
+
+# macOS files
+.DS_Store
+
+# Temporary files
+temp/
+*.tmp
+
+# Log files
+*.log
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Environment files
+.env
+.env.local
+
+# Audio files (from transcription work)
+*.mp3
+*.wav
+*.webm
+
+# Python cache (from MCP servers)
+__pycache__/
+*.pyc
