@@ -23,24 +23,21 @@ email: sh.zhang@tum.de
 description: >- # this means to ignore newlines until "baseurl:"
   A personal blog where I share my thoughts, experiences, and learnings.
   Topics include technology, programming, AI, and software development.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/shihong-tum.github.io" # the subpath of your site
+url: "https://zhangsh1416.github.io" # the base hostname & protocol for your site
 twitter_username: 
-github_username:  
+github_username: zhangsh1416
 author: shihong
-paginate: 5
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-seo-tag
 
 # GitHub Pages settings
-repository: shihong/blog
-github: [metadata]
+repository: zhangsh1416/shihong-tum.github.io
 
 # Exclude from processing.
 # The following items will not be processed, by default.
