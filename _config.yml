@@ -23,7 +23,7 @@ email: sh.zhang@tum.de
 description: >- # this means to ignore newlines until "baseurl:"
   A personal blog where I share my thoughts, experiences, and learnings.
   Topics include technology, programming, AI, and software development.
-baseurl: "/shihong-tum.github.io" # the subpath of your site
+baseurl: "" # the subpath of your site
 url: "https://zhangsh1416.github.io" # the base hostname & protocol for your site
 twitter_username: 
 github_username: zhangsh1416
@@ -31,7 +31,6 @@ author: shihong
 
 # Build settings
 theme: minima
-permalink: /:categories/:year/:month/:day/:title/
 plugins:
   - jekyll-feed
   - jekyll-sitemap
