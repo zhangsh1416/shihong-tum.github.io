@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Getting Started with Blogging: My Journey Begins"
-date: 2025-06-20 01:30:00 +0200
+date: 2025-06-22 01:30:00 +0200
 categories: [blogging, personal]
 tags: [introduction, blogging, journey]
 ---
@@ -35,7 +35,7 @@ This blog is built with Jekyll, a static site generator that's perfect for blogs
 ---
 layout: post
 title: "Your Post Title"
-date: 2025-06-20
+date: 2025-06-22
 categories: [category1, category2]
 tags: [tag1, tag2]
 ---
