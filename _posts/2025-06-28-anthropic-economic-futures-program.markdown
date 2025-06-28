@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[Program Announcement] Anthropic's Economic Futures Program: Empirical Research for AI's Labor Market Impact"
-date: 2025-06-21 04:00:00 +0200
+date: 2025-06-28 04:00:00 +0200
 categories: blog
 ---
 
