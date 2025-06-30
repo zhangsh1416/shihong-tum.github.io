@@ -16,6 +16,9 @@ categories: blog
 
 Cursor has introduced a groundbreaking Slack integration that brings AI-powered code assistance directly into team collaboration workflows. This integration represents a significant evolution in how development teams can leverage AI for collaborative coding, enabling developers to invoke Cursor's Background Agents directly within Slack conversations for complex, context-aware code modifications across repositories.
 
+![Cursor Slack Integration Setup](https://mintlify.s3.us-west-1.amazonaws.com/cursor/images/background-agent/slack/slack-open-in-cursor.png "Cursor Slack Integration Interface")
+*Image: The Cursor Slack integration interface showing the "Open in Cursor" option when Background Agents are running, demonstrating seamless workflow integration between team chat and code editing.*
+
 ## Key Technical Features
 
 ### Background Agents in Slack
@@ -75,10 +78,16 @@ Cursor requests comprehensive Slack permissions to enable full functionality:
 - Status tracking and update notifications
 - Integration with existing code review workflows
 
+![Cursor Slack PR Management](https://mintlify.s3.us-west-1.amazonaws.com/cursor/images/background-agent/slack/slack-view-pr.png "Pull Request Integration")
+*Image: Slack notification showing automatic PR creation and the option to view the generated GitHub pull request, demonstrating seamless integration with existing development workflows.*
+
 **Granular Agent Control:**
 - Context menu options for agent management
 - Fine-tuned control over agent behavior and scope
 - Customizable execution parameters per task
+
+![Cursor Slack Context Menu](https://mintlify.s3.us-west-1.amazonaws.com/cursor/images/background-agent/slack/slack-context-menu.png "Background Agent Context Menu")
+*Image: The Slack context menu showing granular control options for managing Background Agents, including agent configuration and execution parameters.*
 
 ### Developer Productivity Benefits
 

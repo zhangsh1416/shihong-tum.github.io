@@ -17,6 +17,9 @@ categories: blog
 
 Anthropic has launched the Economic Futures Program, a comprehensive research initiative designed to "understand how AI is reshaping the way we work and surface proposals on how to prepare for this shift." This program represents a significant commitment to empirical research and evidence-based policy development as AI systems increasingly impact labor markets, productivity patterns, and economic structures globally.
 
+![Economic Research Visualization](https://cdn.sanity.io/images/4zrzovbb/website/7a472632580035058bc13bfea3b965fbb471a04e-1920x1079.png "Economic Trends and Data Analysis")
+*Image: Economic data visualization representing the type of empirical research and data-driven analysis central to Anthropic's Economic Futures Program, reflecting the program's focus on quantitative measurement of AI's economic impacts.*
+
 ## Program Architecture and Core Components
 
 ### Three Foundational Pillars
