@@ -16,6 +16,9 @@ categories: blog
 
 On March 31, 2023, Twitter made an unprecedented move by open-sourcing its recommendation algorithm—the complex system that processes 500 million daily tweets and creates personalized "For You" timelines. This release marked the first time a major social media platform revealed the inner workings of its content curation system, providing researchers and developers with insight into one of the world's most influential algorithmic systems.
 
+![Twitter Algorithm System Architecture](https://raw.githubusercontent.com/twitter/the-algorithm/main/docs/system-diagram.png "Twitter Recommendation System Architecture")
+*Image: Twitter's recommendation algorithm system architecture showing how major services and jobs interconnect to construct the For You Timeline, illustrating the complex pipeline from candidate generation to final tweet selection.*
+
 The system operates through a sophisticated pipeline that sources tweet candidates, applies multi-stage ranking, and filters content through safety mechanisms. The "For You" timeline consists of roughly 50% tweets from followed accounts and 50% from discovery sources, all processed through machine learning models that analyze user behavior, content quality, and social signals.
 
 ## Key Technical Components
