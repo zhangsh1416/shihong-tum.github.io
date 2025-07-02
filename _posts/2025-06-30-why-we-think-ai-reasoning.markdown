@@ -19,8 +19,8 @@ Lilian Weng's latest research exploration delves into the fundamental question o
 
 The research highlights a critical insight: enabling models to "think for longer" significantly improves problem-solving capabilities, particularly in complex domains like mathematics, coding, and logical reasoning. This approach represents a shift from purely scaling model parameters to scaling computational time during inference.
 
-![AI Reasoning Approaches Diagram](https://lilianweng.github.io/posts/2025-05-01-thinking/parallel_vs_sequential.png "Parallel vs Sequential Reasoning")
-*Image: Comparison of parallel sampling versus sequential revision approaches in AI reasoning, illustrating different strategies for leveraging test-time compute to improve model performance.*
+![AI Reasoning Chain-of-Thought](https://lilianweng.github.io/posts/2025-05-01-thinking/cot-wei22.png "Chain-of-Thought Reasoning Results")
+*Image: Chain-of-thought prompting results showing performance improvements when models are allowed to generate intermediate reasoning steps, demonstrating the effectiveness of test-time compute for AI reasoning.*
 
 ## Key Technical Methodologies
 

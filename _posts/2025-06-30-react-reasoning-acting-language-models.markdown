@@ -19,7 +19,7 @@ ReAct introduces a groundbreaking approach to language model capabilities by syn
 
 The method addresses critical limitations in current language models: pure reasoning approaches suffer from hallucination and error propagation, while pure action-based approaches lack interpretability and systematic planning. ReAct bridges this gap by allowing models to "reason to act" (using reasoning to plan actions) and "act to reason" (using environmental feedback to update reasoning).
 
-![ReAct Method Diagram](https://react-lm.github.io/static/images/react_main.png "ReAct Reasoning and Acting Framework")
+![ReAct Method Diagram](https://react-lm.github.io/files/diagram.png "ReAct Reasoning and Acting Framework")
 *Image: ReAct framework showing the synergistic interaction between reasoning traces and actions, where reasoning helps plan and update actions while actions provide environmental feedback to inform reasoning.*
 
 ## Key Technical Contributions
